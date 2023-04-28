@@ -1,0 +1,13 @@
+# Example YAML file
+
+# Define a list of commands to be executed
+commands:
+  - echo "Hello, World!"
+  - ls -l
+  - yarn
+
+# Define configuration settings
+config:
+  server:
+    host: "localhost"
+    port: 5000
